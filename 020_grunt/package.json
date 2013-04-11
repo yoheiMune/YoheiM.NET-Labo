@@ -1,0 +1,16 @@
+{
+  "name": "GruntStudy",
+  "version": "0.1.0",
+  "description": "GruntStudy",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "author": "Yohei Munesada",
+  "license": "MIT",
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-livereload": "~0.1.2"
+  }
+}
